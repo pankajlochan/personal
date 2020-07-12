@@ -1,0 +1,105 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #344a72;
+        background-image: url(./img/sample.jpg);
+        background-size: cover;
+        text-align: justify
+      }
+
+
+      #header img{
+        position: fixed;
+        border-radius: 15px;
+        /* margin: 10px; */
+
+        display: block;
+        margin-left: 1250px;
+        /* margin-right: 20px; */
+        
+      }
+
+      #header {
+        font-size: 18px;
+        text-align: center;
+      }
+
+      #header h1{
+        color: #fff;
+        font-family: monospace;
+      }
+
+      #header p{
+        color: #4eb7cc;
+      }
+
+      /* Due to Background Color issue */
+      #edu h2 {
+        color: #fff;
+      }
+
+      #edu li{
+        font-size: 18px;
+        color: #fff;
+      }
+
+      /* Due to Background Color issue */
+      #skills h2 {
+        color: #fff;
+      }
+
+      #skills tr {
+        color: white;
+        font-size: 18px;
+      }
+
+      #hobbys h2{
+          color: #fff;
+      }
+
+      #hobbys li{
+        color: #ffffff;
+        font-size: 18px;
+      }
+
+      #hobbys ol li a {
+        text-decoration: none;
+        color:cyan;
+      }
+
+      #hobbys ol li a:hover{
+        color: red;
+      }
+
+      footer {
+        text-align: center;
+        color: whitesmoke;
+      }
+
+      footer a {
+        text-decoration: none;
+        color: white;
+      }
+
+      footer a:hover{
+        color: red;
+      }
+
+      hr{
+        border: 3px dotted #82b3bd;
+      }
+
+
+
+    #contact{
+      text-align: center;
+      font-size: 30px;
+      color: #82b3bd;
+    }
+    
+    #contact p a{
+      text-decoration: none;
+      color: cyan;
+      font-size: 50px;
+    }
+
+ 
